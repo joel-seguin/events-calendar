@@ -3,15 +3,15 @@ html {
 }
 
 table,
-th,
 tr,
-td, {
+th,
+td {
   border: 1px solid #ccc;
   border-color: #ccc;
 }
 
 td {
-  height: 9.75em
+  height: 9.75em;
 }
 
 .card {
