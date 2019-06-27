@@ -1,0 +1,40 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table,
+th,
+tr,
+td, {
+  border: 1px solid #ccc;
+  border-color: #ccc;
+}
+
+td {
+  height: 9.75em
+}
+
+.card {
+  border: 1px solid #666;
+  color: #333;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+}
+
+.card-red {
+  border-color: #b92828;
+  background-color: #f2bcbc;
+  color: #991919;
+}
+
+.card-green {
+  border-color: #6b7e54;
+  background-color: #d1e0bf;
+  color: #51603f;
+}
+
+.card-blue {
+  border-color: #1d38da;
+  background-color: #d2d6f0;
+  color: #38448e;
+}
